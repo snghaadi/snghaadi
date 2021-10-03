@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding & Cricket
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on App Development
-- 📫 How to reach me --
+- 📫 How to reach me -- singhaaditya.com.np
 
 <!---
 snghaadi/snghaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
