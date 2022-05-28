@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **PeerCT**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [www.singhaaditya.com.np](www.singhaaditya.com.np)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React JS**
 
 - 📫 How to reach me **singhaaditya.com.np**
 
