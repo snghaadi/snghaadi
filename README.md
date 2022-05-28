@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **PeerCT**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node**
 
-- 👨‍💻 All of my projects are available at [www.singhaaditya.com.np](www.singhaaditya.com.np)
+- 👨‍💻 All of my projects are available at [https://singhaaditya.com.np/#home](https://singhaaditya.com.np/#home)
 
-- 💬 Ask me about **Javascript, React JS**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **singhaaditya.com.np**
 
-- 📄 Know about my experiences [www.singhaaditya.com.np](www.singhaaditya.com.np)
+- 📄 Know about my experiences [https://singhaaditya.com.np/#home](https://singhaaditya.com.np/#home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
